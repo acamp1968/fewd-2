@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>C.P.R. -  Estates</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+	<!--#include file="header.html" -->
+
+
+
+		<!-- Menu -->
+	<!--#include file="menu.html" -->
+
+
+	
+
+		<!-- Main -->
+			<section id="main" class="wrapper">
+				<div class="inner">
+				  <header class="align-center">
+					<h1>Estate Property?</h1>
+				  </header>
+
+				  <h3>
+				    Perfect for Elderly Homeowners Who Seek to Leave Their Homes that are Encumbered by traditional or Reverse Mortgages.</h3>
+				    <p><span class="image right"><img src="images/schuyler.jpg" alt="Estate Property - Schuyler Mansion by Matt H. Wade" /></span>In Common Law it is the sum of a person's asssests such as legal rights, interests and entitlements to a property of any kind. It can also be a reference to an estate in land or of a paqrticular kind of property (Real Estate or Personal Estate).</p>
+				     <p>&nbsp;</p>
+				    <p>&nbsp;</p>
+				    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+				    <p>&nbsp;</p>
+			  </div>
+			</section>
+
+<!-- footer -->
+		<!--#include file="footer.html" -->
+
+		<!--#include file="scripts.html" -->
+
+	</body>
+</html>

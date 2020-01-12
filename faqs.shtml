@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Frequently Asked Questions</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+	<!--#include file="header.html" -->
+
+
+
+		<!-- Menu -->
+	<!--#include file="menu.html" -->
+
+
+	
+
+		<!-- Main -->
+			<section id="main" class="wrapper">
+				<div class="inner">
+					<header class="align-center">
+						<h1>Frequently Asked Questions<br>
+						</h1>
+					</header>
+
+					<!-- Content -->
+						
+						<div class="row 200%">
+							<div class="12u">
+
+																	
+								<!-- Blockquote -->
+
+								<H3>Q: What Properties are eligible?</h3>
+									<div class="dummy"><p>A: There is no such thing as a FHA 203k approved property. Any single-family home, townhome or even multi-unit (up to four units) property can be financed with FHA 203k loan. This program can be used to convert a one-family dwelling to a two-, three-, or four-family dwelling. An existing multi-unit dwelling can be decreased to a one- to four-family unit, so long as the buyer is buying the property as their primary residence. Condos are also eligible but must be in a FHA-approved complex and be one of no more than four units in the building.</p></div>
+									<H3>Q: Can I refinance my existing mortgage loan into an FHA 203K loan?</H3>
+									<div class="dummy"><p>A: Yes, you can refinance your existing mortgage into both versions of the FHA 203k loan. The FHA 203k loan is also available for mortgage refinance transactions for those where the property is owned free-and clear. For the FHA 203k Streamlined Loan, only credit-qualifying “no cash out” refinance transactions with an appraisal is eligible. If the borrower has owned the property for less than a year, the acquisition cost must be used to determine the maximum mortgage amount. The requirement to use the lowest sales price within the last year does not apply to the FHA 203k Streamlined Loan.</p></div>
+									<H3>Q: Can I refinance my existing mortgage loan into an FHA 203K loan?</h3>
+									<div class="dummy"><p>A: Yes, you can refinance your existing mortgage into both versions of the FHA 203k loan. The FHA 203k loan is also available for mortgage refinance transactions for those where the property is owned free-and clear. For the FHA 203k Streamlined Loan, only credit-qualifying “no cash out” refinance transactions with an appraisal is eligible. If the borrower has owned the property for less than a year, the acquisition cost must be used to determine the maximum mortgage amount. The requirement to use the lowest sales price within the last year does not apply to the FHA 203k Streamlined Loan.</p></div>
+									<H3>Q: Can I refinance my existing mortgage loan into an FHA 203K loan?</h3>
+									<div class="dummy"><p>A: Yes, you can refinance your existing mortgage into both versions of the FHA 203k loan. The FHA 203k loan is also available for mortgage refinance transactions for those where the property is owned free-and clear. For the FHA 203k Streamlined Loan, only credit-qualifying “no cash out” refinance transactions with an appraisal is eligible. If the borrower has owned the property for less than a year, the acquisition cost must be used to determine the maximum mortgage amount. The requirement to use the lowest sales price within the last year does not apply to the FHA 203k Streamlined Loan.</p></div>
+									<H3>Q: Can I refinance my existing mortgage loan into an FHA 203K loan?</h3>
+									<div class="dummy"><p>A: Yes, you can refinance your existing mortgage into both versions of the FHA 203k loan. The FHA 203k loan is also available for mortgage refinance transactions for those where the property is owned free-and clear. For the FHA 203k Streamlined Loan, only credit-qualifying “no cash out” refinance transactions with an appraisal is eligible. If the borrower has owned the property for less than a year, the acquisition cost must be used to determine the maximum mortgage amount. The requirement to use the lowest sales price within the last year does not apply to the FHA 203k Streamlined Loan.</p></div>
+							  </p>
+								
+
+								
+									<div class="table-wrapper"></div>
+
+									
+
+							</div>
+						</div>
+
+				</div>
+			</section>
+
+<!-- footer -->
+		<!--#include file="footer.html" -->
+
+		<!--#include file="scripts.html" -->
+	</body>
+</html>

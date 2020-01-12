@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>C.P.R. -  Bankruptcies</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+	<!--#include file="header.html" -->
+
+
+
+		<!-- Menu -->
+	<!--#include file="menu.html" -->
+
+
+	
+
+		<!-- Main -->
+			<section id="main" class="wrapper">
+				<div class="inner">
+				  <header class="align-center">
+					<h1>Bankrupt?</h1>
+				  </header>
+
+				  <h3>
+				    If you intend to surrender the home in a bankruptcy, Contact Us First!!!</h3>
+				    <p><span class="image right"><img src="images/1CCastleCourt.jpg" alt="Bankruptcies" /></span>We help people who can no longer pay their debts get a fresh start by either liquidating assets or by creating a repayment plan.</p>
+
+<p>Bankrupcy is a tool to for people who have fallen behind for many reasons such as medical bills, lose of job, health reasons, divorce and others. During bankruptcy a person can either surrender their house and be exonerated from all debts or go to loss metigation and restructure loan. </p>
+				    <p>&nbsp;</p>
+				    <p>&nbsp;</p>
+				    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+				    <p>&nbsp;</p>
+			  </div>
+			</section>
+
+<!-- footer -->
+		<!--#include file="footer.html" -->
+
+		<!--#include file="scripts.html" -->
+
+	</body>
+</html>

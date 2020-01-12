@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>C.P.R. - Services</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+	<!--#include file="header.html" -->
+
+
+
+		<!-- Menu -->
+	<!--#include file="menu.html" -->
+
+
+	
+
+		<!-- Main -->
+			<section id="main" class="wrapper">
+				<div class="inner">
+				  <header class="align-center">
+					<h1>Our Services</h1>
+					</header>
+
+					<!-- Content -->
+
+							<div class="box alt">
+										<div class="row">
+							<div class="3u 12u(medium)">
+								<h3>Bankruptcy</h3>
+								<span class="image fit"><img src="images/service1.jpg" alt="Bankruptcy" /></span><br /><p>We help people who can no longer pay their debts get a fresh start by either liquidating assets or by creating a repayment plan.</p><ul class="actions small">
+										<li><a href="bankruptcies.shtml" class="button small">Learn More</a></li></ul><hr class="major" /><br /></div>
+                                        
+                                       
+							<div class="3u 12u(medium)">
+								<h3>Estate Property</h3>
+								<span class="image fit"><img src="images/service2.jpg" alt="Estate Property" /></span><br /><p>In Common Law it is the sum of a person's asssests such as legal rights, interests and entitlements to a property of any kind. It can also be a reference to an estate in land or of a paqrticular kind of property (Real Estate or Personal Estate).</p><ul class="actions small">
+										<li><a href="estates.shtml" class="button small">Learn More</a></li></ul><hr class="major" /><br />
+							</div>
+                            
+                            <div class="3u 12u(medium)">
+								<h3>Foreclosures</h3>
+								<span class="image fit"><img src="images/service4.jpg" alt="Foreclosures" /></span><br /><p>The bank files a notice of default that states the owner has fallen behind on there mortgage payments or has defaulted on there mortgage loan.</p>
+                                <ul class="actions small">
+										<li><a href="foreclosures.shtml" class="button small">Learn More</a></li></ul><hr class="major" /></div> 
+
+							
+                            <div class="3u$ 12u$(medium)">
+								<h3>Unable to Sell</h3>
+								<span class="image fit"><img src="images/service3.jpg" alt="Barb Johnston" /></span><br /><p>Properties that are on the market but not selling may also be accepted. Many other reasons may be those such as an undesirable location, unrealistic price, bad odors, lack of natural light, poor architecture rending a home unchangeable, mold or environmental problems are a few of the possible reasons.</p><ul class="actions small">
+										<li><a href="unsellable.shtml" class="button small">Learn More</a></li></ul><hr class="major" /></div>
+						</div>
+				</div>
+			</section>
+
+<!-- footer -->
+		<!--#include file="footer.html" -->
+
+		<!--#include file="scripts.html" -->
+
+	</body>
+</html>

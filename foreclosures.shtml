@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>C.P.R. -  Foreclosures</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+	<!--#include file="header.html" -->
+
+
+
+		<!-- Menu -->
+	<!--#include file="menu.html" -->
+
+
+	
+
+		<!-- Main -->
+			<section id="main" class="wrapper">
+				<div class="inner">
+				  <header class="align-center">
+					<h1>Foreclosures</h1>
+				  </header>
+
+				  <h3>
+				    We accept properties in foreclosure</h3>
+				    <p><span class="image right"><img src="images/WeatherCrest.jpg" alt="House in Foreclosure" /></span>The bank files a notice of default that states the owner has fallen behind on there mortgage payments or has defaulted on there mortgage loan.</p>
+				    <h4>Foreclosure:</h4>
+				    <p>Is the process where the homeowner transfers the right of ownership of the home to the bank or a lender after the owner defaults (falls behind on payments to their loan). Properties go into foreclosure if they usually miss 3 or more payments on there loan. Foreclosure can impact negatively on the homeowners credit score.</p>
+			      <h4>Post-Foreclosure:</h4>
+			      <p>The lender has taken control of the property or the property is in the hands of a new owner or investor who purchased the property at auction.				   </p> <p>&nbsp;</p>
+
+                 
+</div>
+</div>
+ </div>
+			</section>
+
+<!-- footer -->
+		<!--#include file="footer.html" -->
+
+		<!--#include file="scripts.html" -->
+
+	</body>
+</html>
