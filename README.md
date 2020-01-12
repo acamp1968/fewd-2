@@ -18,7 +18,7 @@ Built with:
 •	Browser Developer Tools
 •	Team communication using Slack
 •	Deconstructed an html5 template from templated.co
-    o	Designed and programmed a responsive logo using scalable svg
+•	Designed and programmed a responsive logo using scalable svg
 •	Used code from cssscript.com for the read more/read less function and modified to fit site design
 
 Features:
@@ -26,14 +26,13 @@ Features:
 •	Customized design
 •	Mobile responsive, custom-designed logo added to header in place of logotype
 •	Mobile Responsive menu with dropdown – code taken from snippet and reprogrammed to match current design and added search box to the nav menu
-•	ADA Compliant (alt tags, raw text, etc.)
-    o	Tested with ANDI, webaccessibility.com, and other tools on www.w3c.org/WAI/ER/tools/
+•	ADA Compliant (alt tags, raw text, etc. - Tested with ANDI, webaccessibility.com, and other tools on www.w3c.org/WAI/ER/tools/)
 •	Custom URL and hosting with external source
 •	FAQs with Read More/Read Less functionality
 •	Pop-up chat window, with custom image (non-functional)
-    o	Added code to change to smaller icon for phones upon load or resize and used transparent icon from Shutterstock with edits
-    o	Added a CSS shadow to the pop-up chat box and mobile icon for better visibility
-    o	Utilized z-index code to ensure top position
+•	Added code to change to smaller icon for phones upon load or resize and used transparent icon from Shutterstock with edits
+•	Added a CSS shadow to the pop-up chat box and mobile icon for better visibility
+•	Utilized z-index code to ensure top position
 •	Search box in navigation (non-functional)
 •	Contact form (non-functional)
 •	Use of bulleted and numbered lists
